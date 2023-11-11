@@ -49,8 +49,8 @@ cmake_ninja_workdir = /Users/johndoe/Desktop/git/Soup/cmake-build-debug/
 
 build cmake_object_order_depends_target_Soup: phony || CMakeFiles/Soup.dir
 
-build CMakeFiles/Soup.dir/Metanit/CH1/task4.cpp.o: CXX_COMPILER__Soup_unscanned_Debug /Users/johndoe/Desktop/git/Soup/Metanit/CH1/task4.cpp || cmake_object_order_depends_target_Soup
-  DEP_FILE = CMakeFiles/Soup.dir/Metanit/CH1/task4.cpp.o.d
+build CMakeFiles/Soup.dir/Metanit/CH1/task1.4.cpp.o: CXX_COMPILER__Soup_unscanned_Debug /Users/johndoe/Desktop/git/Soup/Metanit/CH1/task1.4.cpp || cmake_object_order_depends_target_Soup
+  DEP_FILE = CMakeFiles/Soup.dir/Metanit/CH1/task1.4.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/Soup.dir
   OBJECT_FILE_DIR = CMakeFiles/Soup.dir/Metanit/CH1
@@ -63,7 +63,7 @@ build CMakeFiles/Soup.dir/Metanit/CH1/task4.cpp.o: CXX_COMPILER__Soup_unscanned_
 #############################################
 # Link the executable Soup
 
-build Soup: CXX_EXECUTABLE_LINKER__Soup_Debug CMakeFiles/Soup.dir/Metanit/CH1/task4.cpp.o
+build Soup: CXX_EXECUTABLE_LINKER__Soup_Debug CMakeFiles/Soup.dir/Metanit/CH1/task1.4.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
   OBJECT_DIR = CMakeFiles/Soup.dir
   POST_BUILD = :
