@@ -12,8 +12,8 @@ int main(void) {
     std::cin >> first;
     std::cin >> second;
 
-    (first == second) ? (std::cout << "first == second") : (std::cout << "");
-    (first > second) ? (std::cout << "first > second") : (std::cout << "first < second");
+    (first > second) ? (std::cout << "first > second") : (first == second ? std::cout << "first == second" :
+        std::cout << "first < second");
 
     return 0;
 }
