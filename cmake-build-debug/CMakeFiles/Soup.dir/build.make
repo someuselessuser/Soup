@@ -69,28 +69,28 @@ include CMakeFiles/Soup.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Soup.dir/flags.make
 
-CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o: CMakeFiles/Soup.dir/flags.make
-CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o: /Users/johndoe/Desktop/git/Soup/Metanit/CH3/task2.cpp
-CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o: CMakeFiles/Soup.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/johndoe/Desktop/git/Soup/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o -MF CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o.d -o CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o -c /Users/johndoe/Desktop/git/Soup/Metanit/CH3/task2.cpp
+CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o: CMakeFiles/Soup.dir/flags.make
+CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o: /Users/johndoe/Desktop/git/Soup/Metanit/CH4/task1.cpp
+CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o: CMakeFiles/Soup.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/johndoe/Desktop/git/Soup/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o -MF CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o.d -o CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o -c /Users/johndoe/Desktop/git/Soup/Metanit/CH4/task1.cpp
 
-CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/johndoe/Desktop/git/Soup/Metanit/CH3/task2.cpp > CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.i
+CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/johndoe/Desktop/git/Soup/Metanit/CH4/task1.cpp > CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.i
 
-CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/johndoe/Desktop/git/Soup/Metanit/CH3/task2.cpp -o CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.s
+CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/johndoe/Desktop/git/Soup/Metanit/CH4/task1.cpp -o CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.s
 
 # Object files for target Soup
 Soup_OBJECTS = \
-"CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o"
+"CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o"
 
 # External object files for target Soup
 Soup_EXTERNAL_OBJECTS =
 
-Soup: CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o
+Soup: CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o
 Soup: CMakeFiles/Soup.dir/build.make
 Soup: CMakeFiles/Soup.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/johndoe/Desktop/git/Soup/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Soup"

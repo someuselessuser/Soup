@@ -129,29 +129,29 @@ Soup/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Soup.dir/build.make CMakeFiles/Soup.dir/build
 .PHONY : Soup/fast
 
-Metanit/CH3/task2.o: Metanit/CH3/task2.cpp.o
-.PHONY : Metanit/CH3/task2.o
+Metanit/CH4/task1.o: Metanit/CH4/task1.cpp.o
+.PHONY : Metanit/CH4/task1.o
 
 # target to build an object file
-Metanit/CH3/task2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Soup.dir/build.make CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o
-.PHONY : Metanit/CH3/task2.cpp.o
+Metanit/CH4/task1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Soup.dir/build.make CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o
+.PHONY : Metanit/CH4/task1.cpp.o
 
-Metanit/CH3/task2.i: Metanit/CH3/task2.cpp.i
-.PHONY : Metanit/CH3/task2.i
+Metanit/CH4/task1.i: Metanit/CH4/task1.cpp.i
+.PHONY : Metanit/CH4/task1.i
 
 # target to preprocess a source file
-Metanit/CH3/task2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Soup.dir/build.make CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.i
-.PHONY : Metanit/CH3/task2.cpp.i
+Metanit/CH4/task1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Soup.dir/build.make CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.i
+.PHONY : Metanit/CH4/task1.cpp.i
 
-Metanit/CH3/task2.s: Metanit/CH3/task2.cpp.s
-.PHONY : Metanit/CH3/task2.s
+Metanit/CH4/task1.s: Metanit/CH4/task1.cpp.s
+.PHONY : Metanit/CH4/task1.s
 
 # target to generate assembly for a file
-Metanit/CH3/task2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Soup.dir/build.make CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.s
-.PHONY : Metanit/CH3/task2.cpp.s
+Metanit/CH4/task1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Soup.dir/build.make CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.s
+.PHONY : Metanit/CH4/task1.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Soup"
-	@echo "... Metanit/CH3/task2.o"
-	@echo "... Metanit/CH3/task2.i"
-	@echo "... Metanit/CH3/task2.s"
+	@echo "... Metanit/CH4/task1.o"
+	@echo "... Metanit/CH4/task1.i"
+	@echo "... Metanit/CH4/task1.s"
 .PHONY : help
 
 

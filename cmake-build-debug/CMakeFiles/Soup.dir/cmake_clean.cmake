@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o"
-  "CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o.d"
+  "CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o"
+  "CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o.d"
   "Soup"
   "Soup.pdb"
 )

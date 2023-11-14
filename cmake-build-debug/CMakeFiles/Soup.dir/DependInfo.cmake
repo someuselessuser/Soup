@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/johndoe/Desktop/git/Soup/Metanit/CH3/task2.cpp" "CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o" "gcc" "CMakeFiles/Soup.dir/Metanit/CH3/task2.cpp.o.d"
+  "/Users/johndoe/Desktop/git/Soup/Metanit/CH4/task1.cpp" "CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o" "gcc" "CMakeFiles/Soup.dir/Metanit/CH4/task1.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
