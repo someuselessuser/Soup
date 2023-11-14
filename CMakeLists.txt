@@ -4,5 +4,5 @@ project(Soup)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Soup
-        Metanit/CH2/task2.cpp
+        Metanit/CH3/task2.cpp
 )
